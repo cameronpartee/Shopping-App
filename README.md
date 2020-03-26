@@ -4,12 +4,12 @@
 
 # Screenshots
 
-![img](https://i.imgur.com/uh1ddnx.png)
-![img](https://i.imgur.com/IVRT6Jt.png)
-![img](https://i.imgur.com/0QqpZLE.png)
+![img](https://i.imgur.com/uh1ddnxl.png)
+![img](https://i.imgur.com/IVRT6Jtl.png)
+![img](https://i.imgur.com/0QqpZLEl.png)
 
 # Videos
 
 ![img](https://media.giphy.com/media/QZPT8j54w9KrL3HmT5/giphy.gif)
-![img](https://i.imgur.com/IVRT6Jt.png)
-![img](https://i.imgur.com/0QqpZLE.png)
+![img](https://i.imgur.com/0QqpZLEl.png)
+![img](https://i.imgur.com/0QqpZLEl.png)
