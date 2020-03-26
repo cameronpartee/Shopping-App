@@ -1,4 +1,4 @@
-# Shopping-App
+# Shopping App
 
 🛍 Design Assignment Midterm - Shopping App
 
@@ -11,5 +11,5 @@
 # Videos
 
 ![img](https://media.giphy.com/media/QZPT8j54w9KrL3HmT5/giphy.gif)
-![img](https://i.imgur.com/0QqpZLEl.png)
-![img](https://i.imgur.com/0QqpZLEl.png)
+![img](https://media.giphy.com/media/JOjf7NSudSpQVoHGql/giphy.gif)
+![img](https://media.giphy.com/media/UQb6QM3wfisfxEFfhv/giphy.gif)
