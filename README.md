@@ -1,6 +1,4 @@
-# Shopping App
-
-🛍 Design Assignment Midterm - Shopping App
+# Midterm - Shopping App
 
 ![img](https://media.giphy.com/media/lokTGCqveqP3xW722x/giphy.gif)
 ![img](https://media.giphy.com/media/kdWilmDA67YnW7FEdR/giphy.gif)
